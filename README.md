@@ -12,7 +12,7 @@ The goal of this project is to provide an easy-to-use interface where users can 
 - Includes a simple and responsive (**Flask web interface.**)
 
 ## Dataset
-The model is trained on the EuroSAT dataset, which consists of 27,000 labeled and georeferenced images covering 10 classes:
+The model is trained on the EuroSAT dataset, which consists of 27000 labeled and georeferenced images covering 10 classes:
 
     Annual Crop
 
